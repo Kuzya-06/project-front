@@ -1,0 +1,17 @@
+th, td {
+    border: 3px solid #65f02a;
+    padding: 3px;
+    color: #030303;
+    font-style: italic;
+    font-family: "Franklin Gothic Book", serif;
+    font-size: large;
+    background-color: #def5c7;
+    /*border-top: 4px solid #101111;*/
+    text-align: center;
+    margin: 2px;
+
+}
+table{width: 100%}
+td:hover{background: aqua}
+
+#button_save:hover{background: aqua}
